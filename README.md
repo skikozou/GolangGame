@@ -1,2 +1,2 @@
-Golang shotgun game
+# Golang shotgun game
 ![image](image.png "scc")
